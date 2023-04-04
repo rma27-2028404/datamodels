@@ -9,3 +9,5 @@
  - Teradata: teradata.md
  - MySQL: mysql.md
  - Snowflake: snowflake.md
+##Extra Credit:
+Cassandra: cassandra.md
